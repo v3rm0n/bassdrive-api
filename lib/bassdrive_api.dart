@@ -44,6 +44,8 @@ Future<String> generateJSON() async {
             episodeJson['show'] = showName;
             episodeJson['url'] = Uri.decodeFull(
                 showUri.resolve(show).resolve(episode).toString());
+            episodeJson['encodedUrl'] =
+                showUri.resolve(show).resolve(episode).toString();
             episodesJson.add(episodeJson);
           }));
         }
