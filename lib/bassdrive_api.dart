@@ -52,7 +52,7 @@ Future<String> generateJSON() async {
   } finally {
     client.close();
   }
-  return jsonEncode(json);
+  return JsonEncoder.withIndent('  ').convert(json);
 }
 
 Future<Iterable<String>> getList(http.Client client, Uri uri) async {
