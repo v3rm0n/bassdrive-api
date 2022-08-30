@@ -14,13 +14,11 @@ const days = [
 ];
 
 final archiveBaseUri = Uri.http('archives.bassdrivearchive.com', '/');
+final client = http.Client();
 
 Future<String> generateJSON() async {
-  final client = http.Client();
-  final json = {};
   final archiveJson = {};
-  json['live'] = 'https://bassdrive.radioca.st/stream';
-  json['archive'] = archiveJson;
+  final json = {'live': 'https://bassdrive.radioca.st/stream', 'archive': archiveJson};
   try {
     await Future.wait(days.mapIndexed((index, day) async {
       final dayJson = {};
