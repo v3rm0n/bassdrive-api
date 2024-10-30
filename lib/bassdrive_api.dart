@@ -30,6 +30,9 @@ Future<String> generateJSON() async {
       final showUri = archiveBaseUri.resolve('${index + 1} - $day/');
       final shows = await getList(client, showUri);
       await Future.wait(shows.map((show) async {
+        if (show.endsWith('.mp3')) {
+          return;
+        }
         final episodes = await getList(client, showUri.resolve(show));
         if (episodes.isNotEmpty) {
           final jsonShow = {};

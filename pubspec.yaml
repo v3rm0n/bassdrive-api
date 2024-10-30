@@ -1,16 +1,16 @@
 name: bassdrive_api
-description: A sample command-line application.
+description: Bassdrive radio archive JSON API.
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://bd.maido.io
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
-  collection: ^1.16.0
+  collection: ^1.19.0
   html: ^0.15.0
-  http: ^1.1.0
+  http: ^1.2.2
 
 dev_dependencies:
-  lints: ">=2.0.0 <5.0.0"
-  test: ^1.16.0
+  lints: ">=2.0.0 <6.0.0"
+  test: ^1.25.8
