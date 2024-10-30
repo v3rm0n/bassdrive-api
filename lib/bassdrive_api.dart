@@ -21,6 +21,7 @@ Future<String> generateJSON() async {
   final archiveJson = {};
   json['live'] = 'https://bassdrive.radioca.st/stream';
   json['archive'] = archiveJson;
+  json['updated'] = DateTime.timestamp().toIso8601String();
   try {
     await Future.wait(days.mapIndexed((index, day) async {
       final dayJson = {};
