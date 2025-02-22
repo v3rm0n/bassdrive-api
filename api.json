@@ -7,34 +7,101 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Monday Night Live - BMK",
+              "show": "BASS GO BOOM - DJ ANDY",
               "url": "http://archives.bassdrivearchive.com/1 - Monday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
             }
           ],
-          "name": "Monday Night Live - BMK"
+          "name": "BASS GO BOOM - DJ ANDY"
         },
         {
           "episodes": [
             {
               "name": "../",
-              "show": "Scientific Radio - MAV and Mobility",
+              "show": "Monday Blues - Fizzik",
               "url": "http://archives.bassdrivearchive.com/1 - Monday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
             }
           ],
-          "name": "Scientific Radio - MAV and Mobility"
+          "name": "Monday Blues - Fizzik"
         },
         {
           "episodes": [
             {
               "name": "../",
-              "show": "The Hustle Audio Show - Phil Hustle",
+              "show": "Subfactory Show - DJ Spim",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            },
+            {
+              "name": "[2025.01.27] Subfactory Show - Spim",
+              "show": "Subfactory Show - DJ Spim",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/Subfactory Show - DJ Spim/[2025.01.27] Subfactory Show - Spim.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/Subfactory%20Show%20-%20DJ%20Spim/%5B2025.01.27%5D%20Subfactory%20Show%20-%20Spim.mp3"
+            },
+            {
+              "name": "[2025.02.10] Subfactory Show - Spim",
+              "show": "Subfactory Show - DJ Spim",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/Subfactory Show - DJ Spim/[2025.02.10] Subfactory Show - Spim.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/Subfactory%20Show%20-%20DJ%20Spim/%5B2025.02.10%5D%20Subfactory%20Show%20-%20Spim.mp3"
+            }
+          ],
+          "name": "Subfactory Show - DJ Spim"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Fizzy Beats Show - Mr. Joseph",
               "url": "http://archives.bassdrivearchive.com/1 - Monday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
             }
           ],
-          "name": "The Hustle Audio Show - Phil Hustle"
+          "name": "Fizzy Beats Show - Mr. Joseph"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Fokuz Recordings Show",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            }
+          ],
+          "name": "Fokuz Recordings Show"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Sydney Soul Radio - Andy Sim",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            }
+          ],
+          "name": "Sydney Soul Radio - Andy Sim"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "The Infrasound Radio Show - Icon",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            }
+          ],
+          "name": "The Infrasound Radio Show - Icon"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "The Four Corners Show - Melinki",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            }
+          ],
+          "name": "The Four Corners Show - Melinki"
         },
         {
           "episodes": [
@@ -69,116 +136,6 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Atmomatix Records Showcase - HiddenWave",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "Atmomatix Records Showcase - HiddenWave"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Fokuz Recordings Show",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "Fokuz Recordings Show"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "BASS GO BOOM - DJ ANDY",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "BASS GO BOOM - DJ ANDY"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Fizzy Beats Show - Mr. Joseph",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "Fizzy Beats Show - Mr. Joseph"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Sydney Soul Radio - Andy Sim",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "Sydney Soul Radio - Andy Sim"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Monday Blues - Fizzik",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "Monday Blues - Fizzik"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "The Infrasound Radio Show - Icon",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "The Infrasound Radio Show - Icon"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Heat - Delano",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "Heat - Delano"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "The Four Corners Show - Melinki",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "The Four Corners Show - Melinki"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "The Skeptics Show - The Skeptics",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            }
-          ],
-          "name": "The Skeptics Show - The Skeptics"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
               "show": "Translation Sound - Rogue State",
               "url": "http://archives.bassdrivearchive.com/1 - Monday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
@@ -196,35 +153,45 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Deep In The Jungle - Illusionist and Darm",
+              "show": "Atmomatix Records Showcase - HiddenWave",
               "url": "http://archives.bassdrivearchive.com/1 - Monday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
             }
           ],
-          "name": "Deep In The Jungle - Illusionist and Darm"
+          "name": "Atmomatix Records Showcase - HiddenWave"
         },
         {
           "episodes": [
             {
               "name": "../",
-              "show": "Subfactory Show - DJ Spim",
+              "show": "Heat - Delano",
               "url": "http://archives.bassdrivearchive.com/1 - Monday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
-            },
-            {
-              "name": "[2025.01.27] Subfactory Show - Spim",
-              "show": "Subfactory Show - DJ Spim",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/Subfactory Show - DJ Spim/[2025.01.27] Subfactory Show - Spim.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/Subfactory%20Show%20-%20DJ%20Spim/%5B2025.01.27%5D%20Subfactory%20Show%20-%20Spim.mp3"
-            },
-            {
-              "name": "[2025.02.10] Subfactory Show - Spim",
-              "show": "Subfactory Show - DJ Spim",
-              "url": "http://archives.bassdrivearchive.com/1 - Monday/Subfactory Show - DJ Spim/[2025.02.10] Subfactory Show - Spim.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/Subfactory%20Show%20-%20DJ%20Spim/%5B2025.02.10%5D%20Subfactory%20Show%20-%20Spim.mp3"
             }
           ],
-          "name": "Subfactory Show - DJ Spim"
+          "name": "Heat - Delano"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Scientific Radio - MAV and Mobility",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            }
+          ],
+          "name": "Scientific Radio - MAV and Mobility"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Monday Night Live - BMK",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            }
+          ],
+          "name": "Monday Night Live - BMK"
         },
         {
           "episodes": [
@@ -259,12 +226,45 @@
           "episodes": [
             {
               "name": "../",
+              "show": "Deep In The Jungle - Illusionist and Darm",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            }
+          ],
+          "name": "Deep In The Jungle - Illusionist and Darm"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "The Hustle Audio Show - Phil Hustle",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            }
+          ],
+          "name": "The Hustle Audio Show - Phil Hustle"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
               "show": "The Technimatic Show - Technimatic",
               "url": "http://archives.bassdrivearchive.com/1 - Monday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
             }
           ],
           "name": "The Technimatic Show - Technimatic"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "The Skeptics Show - The Skeptics",
+              "url": "http://archives.bassdrivearchive.com/1 - Monday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/1%20-%20Monday/"
+            }
+          ],
+          "name": "The Skeptics Show - The Skeptics"
         },
         {
           "episodes": [
@@ -285,56 +285,23 @@
           "episodes": [
             {
               "name": "../",
+              "show": "Atmospheric Alignments - Skanka",
+              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
+            }
+          ],
+          "name": "Atmospheric Alignments - Skanka"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
               "show": "Night Grooves - Intelligent Manners",
               "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
             }
           ],
           "name": "Night Grooves - Intelligent Manners"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Stepping Forward Show - Jaybee",
-              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
-            }
-          ],
-          "name": "Stepping Forward Show - Jaybee"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Sweetpea Live on Bassdrive - Sweetpea",
-              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
-            }
-          ],
-          "name": "Sweetpea Live on Bassdrive - Sweetpea"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Berlin Bass - DJ Soulsurfer",
-              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
-            }
-          ],
-          "name": "Berlin Bass - DJ Soulsurfer"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Sohl Patrol - Sohlman",
-              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
-            }
-          ],
-          "name": "Sohl Patrol - Sohlman"
         },
         {
           "episodes": [
@@ -363,34 +330,12 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Subliminal Messages Radio - SP",
+              "show": "Sweetpea Live on Bassdrive - Sweetpea",
               "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
             }
           ],
-          "name": "Subliminal Messages Radio - SP"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Atmospheric Alignments - Skanka",
-              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
-            }
-          ],
-          "name": "Atmospheric Alignments - Skanka"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Context Audio Show - Subtext",
-              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
-            }
-          ],
-          "name": "Context Audio Show - Subtext"
+          "name": "Sweetpea Live on Bassdrive - Sweetpea"
         },
         {
           "episodes": [
@@ -425,12 +370,56 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Straub Patrol - Strauberry",
+              "show": "Subliminal Messages Radio - SP",
               "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
             }
           ],
-          "name": "Straub Patrol - Strauberry"
+          "name": "Subliminal Messages Radio - SP"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Berlin Bass - DJ Soulsurfer",
+              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
+            }
+          ],
+          "name": "Berlin Bass - DJ Soulsurfer"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Context Audio Show - Subtext",
+              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
+            }
+          ],
+          "name": "Context Audio Show - Subtext"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Sohl Patrol - Sohlman",
+              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
+            }
+          ],
+          "name": "Sohl Patrol - Sohlman"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Stepping Forward Show - Jaybee",
+              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
+            }
+          ],
+          "name": "Stepping Forward Show - Jaybee"
         },
         {
           "episodes": [
@@ -460,22 +449,22 @@
             }
           ],
           "name": "XPOSURE Records Show - Ben XO"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Straub Patrol - Strauberry",
+              "url": "http://archives.bassdrivearchive.com/2 - Tuesday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/2%20-%20Tuesday/"
+            }
+          ],
+          "name": "Straub Patrol - Strauberry"
         }
       ]
     },
     "Wednesday": {
       "shows": [
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Stamina Radio - Jamal",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/"
-            }
-          ],
-          "name": "Stamina Radio - Jamal"
-        },
         {
           "episodes": [
             {
@@ -509,76 +498,12 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Northern Groove Show - Dan Soulsmith",
+              "show": "Balearic Breaks Show - Darren Jay and Jazzy",
               "url": "http://archives.bassdrivearchive.com/3 - Wednesday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/"
-            },
-            {
-              "name": "[2025.01.29] Northern Groove Show - Dan Soulsmith",
-              "show": "Northern Groove Show - Dan Soulsmith",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Northern Groove Show - Dan Soulsmith/[2025.01.29] Northern Groove Show - Dan Soulsmith.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Northern%20Groove%20Show%20-%20Dan%20Soulsmith/%5B2025.01.29%5D%20Northern%20Groove%20Show%20-%20Dan%20Soulsmith.mp3"
-            },
-            {
-              "name": "[2025.02.05] Northern Groove Show - Dan Soulsmith",
-              "show": "Northern Groove Show - Dan Soulsmith",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Northern Groove Show - Dan Soulsmith/[2025.02.05] Northern Groove Show - Dan Soulsmith.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Northern%20Groove%20Show%20-%20Dan%20Soulsmith/%5B2025.02.05%5D%20Northern%20Groove%20Show%20-%20Dan%20Soulsmith.mp3"
-            },
-            {
-              "name": "[2025.02.12] Northern Groove Show - Dan Soulsmith",
-              "show": "Northern Groove Show - Dan Soulsmith",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Northern Groove Show - Dan Soulsmith/[2025.02.12] Northern Groove Show - Dan Soulsmith.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Northern%20Groove%20Show%20-%20Dan%20Soulsmith/%5B2025.02.12%5D%20Northern%20Groove%20Show%20-%20Dan%20Soulsmith.mp3"
             }
           ],
-          "name": "Northern Groove Show - Dan Soulsmith"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Power Rinse - EvanTheScientist",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/"
-            },
-            {
-              "name": "[2025.02.05] Power Rinse - EvanTheScientist",
-              "show": "Power Rinse - EvanTheScientist",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Power Rinse - EvanTheScientist/[2025.02.05] Power Rinse - EvanTheScientist.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Power%20Rinse%20-%20EvanTheScientist/%5B2025.02.05%5D%20Power%20Rinse%20-%20EvanTheScientist.mp3"
-            },
-            {
-              "name": "[2025.02.12] Power Rinse - EvanTheScientist",
-              "show": "Power Rinse - EvanTheScientist",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Power Rinse - EvanTheScientist/[2025.02.12] Power Rinse - EvanTheScientist.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Power%20Rinse%20-%20EvanTheScientist/%5B2025.02.12%5D%20Power%20Rinse%20-%20EvanTheScientist.mp3"
-            }
-          ],
-          "name": "Power Rinse - EvanTheScientist"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Promo Zo on Bassdrive - Promo Zo",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/"
-            },
-            {
-              "name": "[2025.02.05] Promo Zo on Bassdrive - Promo Zo",
-              "show": "Promo Zo on Bassdrive - Promo Zo",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Promo Zo on Bassdrive - Promo Zo/[2025.02.05] Promo Zo on Bassdrive - Promo Zo.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo/%5B2025.02.05%5D%20Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo.mp3"
-            },
-            {
-              "name": "[2025.02.12] Promo Zo on Bassdrive - Promo Zo",
-              "show": "Promo Zo on Bassdrive - Promo Zo",
-              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Promo Zo on Bassdrive - Promo Zo/[2025.02.12] Promo Zo on Bassdrive - Promo Zo.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo/%5B2025.02.12%5D%20Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo.mp3"
-            }
-          ],
-          "name": "Promo Zo on Bassdrive - Promo Zo"
+          "name": "Balearic Breaks Show - Darren Jay and Jazzy"
         },
         {
           "episodes": [
@@ -618,6 +543,46 @@
           "episodes": [
             {
               "name": "../",
+              "show": "Stamina Radio - Jamal",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/"
+            }
+          ],
+          "name": "Stamina Radio - Jamal"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Northern Groove Show - Dan Soulsmith",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/"
+            },
+            {
+              "name": "[2025.01.29] Northern Groove Show - Dan Soulsmith",
+              "show": "Northern Groove Show - Dan Soulsmith",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Northern Groove Show - Dan Soulsmith/[2025.01.29] Northern Groove Show - Dan Soulsmith.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Northern%20Groove%20Show%20-%20Dan%20Soulsmith/%5B2025.01.29%5D%20Northern%20Groove%20Show%20-%20Dan%20Soulsmith.mp3"
+            },
+            {
+              "name": "[2025.02.05] Northern Groove Show - Dan Soulsmith",
+              "show": "Northern Groove Show - Dan Soulsmith",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Northern Groove Show - Dan Soulsmith/[2025.02.05] Northern Groove Show - Dan Soulsmith.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Northern%20Groove%20Show%20-%20Dan%20Soulsmith/%5B2025.02.05%5D%20Northern%20Groove%20Show%20-%20Dan%20Soulsmith.mp3"
+            },
+            {
+              "name": "[2025.02.12] Northern Groove Show - Dan Soulsmith",
+              "show": "Northern Groove Show - Dan Soulsmith",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Northern Groove Show - Dan Soulsmith/[2025.02.12] Northern Groove Show - Dan Soulsmith.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Northern%20Groove%20Show%20-%20Dan%20Soulsmith/%5B2025.02.12%5D%20Northern%20Groove%20Show%20-%20Dan%20Soulsmith.mp3"
+            }
+          ],
+          "name": "Northern Groove Show - Dan Soulsmith"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
               "show": "Vinyl and Circuitry - Method One",
               "url": "http://archives.bassdrivearchive.com/3 - Wednesday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/"
@@ -629,12 +594,24 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Balearic Breaks Show - Darren Jay and Jazzy",
+              "show": "Power Rinse - EvanTheScientist",
               "url": "http://archives.bassdrivearchive.com/3 - Wednesday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/"
+            },
+            {
+              "name": "[2025.02.05] Power Rinse - EvanTheScientist",
+              "show": "Power Rinse - EvanTheScientist",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Power Rinse - EvanTheScientist/[2025.02.05] Power Rinse - EvanTheScientist.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Power%20Rinse%20-%20EvanTheScientist/%5B2025.02.05%5D%20Power%20Rinse%20-%20EvanTheScientist.mp3"
+            },
+            {
+              "name": "[2025.02.12] Power Rinse - EvanTheScientist",
+              "show": "Power Rinse - EvanTheScientist",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Power Rinse - EvanTheScientist/[2025.02.12] Power Rinse - EvanTheScientist.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Power%20Rinse%20-%20EvanTheScientist/%5B2025.02.12%5D%20Power%20Rinse%20-%20EvanTheScientist.mp3"
             }
           ],
-          "name": "Balearic Breaks Show - Darren Jay and Jazzy"
+          "name": "Power Rinse - EvanTheScientist"
         },
         {
           "episodes": [
@@ -646,11 +623,45 @@
             }
           ],
           "name": "The Greenroom - Stunna"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Promo Zo on Bassdrive - Promo Zo",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/"
+            },
+            {
+              "name": "[2025.02.05] Promo Zo on Bassdrive - Promo Zo",
+              "show": "Promo Zo on Bassdrive - Promo Zo",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Promo Zo on Bassdrive - Promo Zo/[2025.02.05] Promo Zo on Bassdrive - Promo Zo.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo/%5B2025.02.05%5D%20Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo.mp3"
+            },
+            {
+              "name": "[2025.02.12] Promo Zo on Bassdrive - Promo Zo",
+              "show": "Promo Zo on Bassdrive - Promo Zo",
+              "url": "http://archives.bassdrivearchive.com/3 - Wednesday/Promo Zo on Bassdrive - Promo Zo/[2025.02.12] Promo Zo on Bassdrive - Promo Zo.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/3%20-%20Wednesday/Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo/%5B2025.02.12%5D%20Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo.mp3"
+            }
+          ],
+          "name": "Promo Zo on Bassdrive - Promo Zo"
         }
       ]
     },
     "Thursday": {
       "shows": [
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Soundtrax4Life Show - Big Bud",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
+            }
+          ],
+          "name": "Soundtrax4Life Show - Big Bud"
+        },
         {
           "episodes": [
             {
@@ -661,6 +672,51 @@
             }
           ],
           "name": "Blu Saphir Show - Jay Rome"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Panorama Podcast - Derrick and Tonika",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
+            }
+          ],
+          "name": "Panorama Podcast - Derrick and Tonika"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Stuck on Mute - Insideman",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
+            },
+            {
+              "name": "[2025.01.30] Stuck on Mute - Insideman",
+              "show": "Stuck on Mute - Insideman",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/Stuck on Mute - Insideman/[2025.01.30] Stuck on Mute - Insideman.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/Stuck%20on%20Mute%20-%20Insideman/%5B2025.01.30%5D%20Stuck%20on%20Mute%20-%20Insideman.mp3"
+            },
+            {
+              "name": "[2025.02.06] Stuck on Mute - Insideman",
+              "show": "Stuck on Mute - Insideman",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/Stuck on Mute - Insideman/[2025.02.06] Stuck on Mute - Insideman.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/Stuck%20on%20Mute%20-%20Insideman/%5B2025.02.06%5D%20Stuck%20on%20Mute%20-%20Insideman.mp3"
+            }
+          ],
+          "name": "Stuck on Mute - Insideman"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "The Mod Con Records Show - Rodney Rolls",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
+            }
+          ],
+          "name": "The Mod Con Records Show - Rodney Rolls"
         },
         {
           "episodes": [
@@ -683,12 +739,12 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Stepping Forward Show - Jaybee",
+              "show": "Planet V Radio",
               "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
             }
           ],
-          "name": "Stepping Forward Show - Jaybee"
+          "name": "Planet V Radio"
         },
         {
           "episodes": [
@@ -705,18 +761,18 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Just On Track - Ashatack",
+              "show": "Trainspotting Sessions - DJ Amnesty",
               "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
             },
             {
-              "name": "[2025.02.13] Just On Track - Ashatack",
-              "show": "Just On Track - Ashatack",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/Just On Track - Ashatack/[2025.02.13] Just On Track - Ashatack.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/Just%20On%20Track%20-%20Ashatack/%5B2025.02.13%5D%20Just%20On%20Track%20-%20Ashatack.mp3"
+              "name": "[2025.02.06] Trainspotting Sessions - Amnesty",
+              "show": "Trainspotting Sessions - DJ Amnesty",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/Trainspotting Sessions - DJ Amnesty/[2025.02.06] Trainspotting Sessions - Amnesty.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/Trainspotting%20Sessions%20-%20DJ%20Amnesty/%5B2025.02.06%5D%20Trainspotting%20Sessions%20-%20Amnesty.mp3"
             }
           ],
-          "name": "Just On Track - Ashatack"
+          "name": "Trainspotting Sessions - DJ Amnesty"
         },
         {
           "episodes": [
@@ -756,46 +812,57 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Panorama Podcast - Derrick and Tonika",
+              "show": "Eastside Sessions - A-Sides",
               "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
             }
           ],
-          "name": "Panorama Podcast - Derrick and Tonika"
+          "name": "Eastside Sessions - A-Sides"
         },
         {
           "episodes": [
             {
               "name": "../",
-              "show": "Reflective Music Show - 2Shy",
+              "show": "Stepping Forward Show - Jaybee",
               "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
             }
           ],
-          "name": "Reflective Music Show - 2Shy"
+          "name": "Stepping Forward Show - Jaybee"
         },
         {
           "episodes": [
             {
               "name": "../",
-              "show": "Stuck on Mute - Insideman",
+              "show": "Just On Track - Ashatack",
               "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
             },
             {
-              "name": "[2025.01.30] Stuck on Mute - Insideman",
-              "show": "Stuck on Mute - Insideman",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/Stuck on Mute - Insideman/[2025.01.30] Stuck on Mute - Insideman.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/Stuck%20on%20Mute%20-%20Insideman/%5B2025.01.30%5D%20Stuck%20on%20Mute%20-%20Insideman.mp3"
-            },
-            {
-              "name": "[2025.02.06] Stuck on Mute - Insideman",
-              "show": "Stuck on Mute - Insideman",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/Stuck on Mute - Insideman/[2025.02.06] Stuck on Mute - Insideman.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/Stuck%20on%20Mute%20-%20Insideman/%5B2025.02.06%5D%20Stuck%20on%20Mute%20-%20Insideman.mp3"
+              "name": "[2025.02.13] Just On Track - Ashatack",
+              "show": "Just On Track - Ashatack",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/Just On Track - Ashatack/[2025.02.13] Just On Track - Ashatack.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/Just%20On%20Track%20-%20Ashatack/%5B2025.02.13%5D%20Just%20On%20Track%20-%20Ashatack.mp3"
             }
           ],
-          "name": "Stuck on Mute - Insideman"
+          "name": "Just On Track - Ashatack"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "The Sultry Sounds Show - Cadence",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
+            },
+            {
+              "name": "[2025.01.30] The Sultry Sounds Show - Cadence",
+              "show": "The Sultry Sounds Show - Cadence",
+              "url": "http://archives.bassdrivearchive.com/4 - Thursday/The Sultry Sounds Show - Cadence/[2025.01.30] The Sultry Sounds Show - Cadence.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/The%20Sultry%20Sounds%20Show%20-%20Cadence/%5B2025.01.30%5D%20The%20Sultry%20Sounds%20Show%20-%20Cadence.mp3"
+            }
+          ],
+          "name": "The Sultry Sounds Show - Cadence"
         },
         {
           "episodes": [
@@ -824,79 +891,12 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Trainspotting Sessions - DJ Amnesty",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
-            },
-            {
-              "name": "[2025.02.06] Trainspotting Sessions - Amnesty",
-              "show": "Trainspotting Sessions - DJ Amnesty",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/Trainspotting Sessions - DJ Amnesty/[2025.02.06] Trainspotting Sessions - Amnesty.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/Trainspotting%20Sessions%20-%20DJ%20Amnesty/%5B2025.02.06%5D%20Trainspotting%20Sessions%20-%20Amnesty.mp3"
-            }
-          ],
-          "name": "Trainspotting Sessions - DJ Amnesty"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "The Sultry Sounds Show - Cadence",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
-            },
-            {
-              "name": "[2025.01.30] The Sultry Sounds Show - Cadence",
-              "show": "The Sultry Sounds Show - Cadence",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/The Sultry Sounds Show - Cadence/[2025.01.30] The Sultry Sounds Show - Cadence.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/The%20Sultry%20Sounds%20Show%20-%20Cadence/%5B2025.01.30%5D%20The%20Sultry%20Sounds%20Show%20-%20Cadence.mp3"
-            }
-          ],
-          "name": "The Sultry Sounds Show - Cadence"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Eastside Sessions - A-Sides",
+              "show": "Reflective Music Show - 2Shy",
               "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
             }
           ],
-          "name": "Eastside Sessions - A-Sides"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Planet V Radio",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
-            }
-          ],
-          "name": "Planet V Radio"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Soundtrax4Life Show - Big Bud",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
-            }
-          ],
-          "name": "Soundtrax4Life Show - Big Bud"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "The Mod Con Records Show - Rodney Rolls",
-              "url": "http://archives.bassdrivearchive.com/4 - Thursday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/4%20-%20Thursday/"
-            }
-          ],
-          "name": "The Mod Con Records Show - Rodney Rolls"
+          "name": "Reflective Music Show - 2Shy"
         }
       ]
     },
@@ -906,57 +906,12 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Eclips3 Music - Liquid",
+              "show": "Australian Atmospherics - Operon",
               "url": "http://archives.bassdrivearchive.com/5 - Friday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
             }
           ],
-          "name": "Eclips3 Music - Liquid"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Launch in Session - Handy",
-              "url": "http://archives.bassdrivearchive.com/5 - Friday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
-            },
-            {
-              "name": "[2025.01.31] Launch in Session - Handy",
-              "show": "Launch in Session - Handy",
-              "url": "http://archives.bassdrivearchive.com/5 - Friday/Launch in Session - Handy/[2025.01.31] Launch in Session - Handy.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/Launch%20in%20Session%20-%20Handy/%5B2025.01.31%5D%20Launch%20in%20Session%20-%20Handy.mp3"
-            },
-            {
-              "name": "[2025.02.07] Launch in Session - Handy",
-              "show": "Launch in Session - Handy",
-              "url": "http://archives.bassdrivearchive.com/5 - Friday/Launch in Session - Handy/[2025.02.07] Launch in Session - Handy.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/Launch%20in%20Session%20-%20Handy/%5B2025.02.07%5D%20Launch%20in%20Session%20-%20Handy.mp3"
-            }
-          ],
-          "name": "Launch in Session - Handy"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Vibration Sessions - Vibration Records",
-              "url": "http://archives.bassdrivearchive.com/5 - Friday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
-            }
-          ],
-          "name": "Vibration Sessions - Vibration Records"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Emcee Recordings Show - Mechanizm and Voyage",
-              "url": "http://archives.bassdrivearchive.com/5 - Friday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
-            }
-          ],
-          "name": "Emcee Recordings Show - Mechanizm and Voyage"
+          "name": "Australian Atmospherics - Operon"
         },
         {
           "episodes": [
@@ -973,12 +928,23 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Australian Atmospherics - Operon",
+              "show": "Eclips3 Music - Liquid",
               "url": "http://archives.bassdrivearchive.com/5 - Friday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
             }
           ],
-          "name": "Australian Atmospherics - Operon"
+          "name": "Eclips3 Music - Liquid"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "On Ward Show - Jay Dubz",
+              "url": "http://archives.bassdrivearchive.com/5 - Friday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
+            }
+          ],
+          "name": "On Ward Show - Jay Dubz"
         },
         {
           "episodes": [
@@ -1019,6 +985,51 @@
             }
           ],
           "name": "SixOneOh - Reflect"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Vibration Sessions - Vibration Records",
+              "url": "http://archives.bassdrivearchive.com/5 - Friday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
+            }
+          ],
+          "name": "Vibration Sessions - Vibration Records"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Emcee Recordings Show - Mechanizm and Voyage",
+              "url": "http://archives.bassdrivearchive.com/5 - Friday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
+            }
+          ],
+          "name": "Emcee Recordings Show - Mechanizm and Voyage"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Launch in Session - Handy",
+              "url": "http://archives.bassdrivearchive.com/5 - Friday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
+            },
+            {
+              "name": "[2025.01.31] Launch in Session - Handy",
+              "show": "Launch in Session - Handy",
+              "url": "http://archives.bassdrivearchive.com/5 - Friday/Launch in Session - Handy/[2025.01.31] Launch in Session - Handy.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/Launch%20in%20Session%20-%20Handy/%5B2025.01.31%5D%20Launch%20in%20Session%20-%20Handy.mp3"
+            },
+            {
+              "name": "[2025.02.07] Launch in Session - Handy",
+              "show": "Launch in Session - Handy",
+              "url": "http://archives.bassdrivearchive.com/5 - Friday/Launch in Session - Handy/[2025.02.07] Launch in Session - Handy.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/Launch%20in%20Session%20-%20Handy/%5B2025.02.07%5D%20Launch%20in%20Session%20-%20Handy.mp3"
+            }
+          ],
+          "name": "Launch in Session - Handy"
         },
         {
           "episodes": [
@@ -1087,17 +1098,6 @@
             }
           ],
           "name": "Represent Radio - Squake"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "On Ward Show - Jay Dubz",
-              "url": "http://archives.bassdrivearchive.com/5 - Friday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/5%20-%20Friday/"
-            }
-          ],
-          "name": "On Ward Show - Jay Dubz"
         }
       ]
     },
@@ -1107,30 +1107,18 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Hangover Hotline - Lamebrane",
+              "show": "Deceit FM - Buzzy D",
               "url": "http://archives.bassdrivearchive.com/6 - Saturday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/"
             },
             {
-              "name": "[2025.01.25] Hangover Hotline - Lamebrane",
-              "show": "Hangover Hotline - Lamebrane",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Hangover Hotline - Lamebrane/[2025.01.25] Hangover Hotline - Lamebrane.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5B2025.01.25%5D%20Hangover%20Hotline%20-%20Lamebrane.mp3"
-            },
-            {
-              "name": "[2025.02.01] Hangover Hotline - Lamebrane",
-              "show": "Hangover Hotline - Lamebrane",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Hangover Hotline - Lamebrane/[2025.02.01] Hangover Hotline - Lamebrane.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5B2025.02.01%5D%20Hangover%20Hotline%20-%20Lamebrane.mp3"
-            },
-            {
-              "name": "[2025.02.08] Hangover Hotline - Lamebrane",
-              "show": "Hangover Hotline - Lamebrane",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Hangover Hotline - Lamebrane/[2025.02.08] Hangover Hotline - Lamebrane.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5B2025.02.08%5D%20Hangover%20Hotline%20-%20Lamebrane.mp3"
+              "name": "[2025.02.01] Deceit FM - Buzzy D",
+              "show": "Deceit FM - Buzzy D",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Deceit FM - Buzzy D/[2025.02.01] Deceit FM - Buzzy D.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Deceit%20FM%20-%20Buzzy%20D/%5B2025.02.01%5D%20Deceit%20FM%20-%20Buzzy%20D.mp3"
             }
           ],
-          "name": "Hangover Hotline - Lamebrane"
+          "name": "Deceit FM - Buzzy D"
         },
         {
           "episodes": [
@@ -1165,12 +1153,81 @@
           "episodes": [
             {
               "name": "../",
+              "show": "Hangover Hotline - Lamebrane",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/"
+            },
+            {
+              "name": "[2025.01.25] Hangover Hotline - Lamebrane",
+              "show": "Hangover Hotline - Lamebrane",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Hangover Hotline - Lamebrane/[2025.01.25] Hangover Hotline - Lamebrane.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5B2025.01.25%5D%20Hangover%20Hotline%20-%20Lamebrane.mp3"
+            },
+            {
+              "name": "[2025.02.01] Hangover Hotline - Lamebrane",
+              "show": "Hangover Hotline - Lamebrane",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Hangover Hotline - Lamebrane/[2025.02.01] Hangover Hotline - Lamebrane.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5B2025.02.01%5D%20Hangover%20Hotline%20-%20Lamebrane.mp3"
+            },
+            {
+              "name": "[2025.02.08] Hangover Hotline - Lamebrane",
+              "show": "Hangover Hotline - Lamebrane",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Hangover Hotline - Lamebrane/[2025.02.08] Hangover Hotline - Lamebrane.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5B2025.02.08%5D%20Hangover%20Hotline%20-%20Lamebrane.mp3"
+            }
+          ],
+          "name": "Hangover Hotline - Lamebrane"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
               "show": "LiquidDNB Show - LiquidDNB.com",
               "url": "http://archives.bassdrivearchive.com/6 - Saturday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/"
             }
           ],
           "name": "LiquidDNB Show - LiquidDNB.com"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Default Recordings Show - West",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/"
+            },
+            {
+              "name": "[2025.02.01] Default Recordings Show - .mp3",
+              "show": "Default Recordings Show - West",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Default Recordings Show - West/[2025.02.01] Default Recordings Show.mp3 - .mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/%5B2025.02.01%5D%20Default%20Recordings%20Show.mp3%20-%20.mp3"
+            }
+          ],
+          "name": "Default Recordings Show - West"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Crucial-X Radio - Spacefunk",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/"
+            },
+            {
+              "name": "[2025.01.25] Crucial-X Radio - Spacefunk",
+              "show": "Crucial-X Radio - Spacefunk",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Crucial-X Radio - Spacefunk/[2025.01.25] Crucial-X Radio - Spacefunk.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Crucial-X%20Radio%20-%20Spacefunk/%5B2025.01.25%5D%20Crucial-X%20Radio%20-%20Spacefunk.mp3"
+            },
+            {
+              "name": "[2025.02.08] Crucial-X Radio - Spacefunk",
+              "show": "Crucial-X Radio - Spacefunk",
+              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Crucial-X Radio - Spacefunk/[2025.02.08] Crucial-X Radio - Spacefunk.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Crucial-X%20Radio%20-%20Spacefunk/%5B2025.02.08%5D%20Crucial-X%20Radio%20-%20Spacefunk.mp3"
+            }
+          ],
+          "name": "Crucial-X Radio - Spacefunk"
         },
         {
           "episodes": [
@@ -1205,69 +1262,12 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Deceit FM - Buzzy D",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/"
-            },
-            {
-              "name": "[2025.02.01] Deceit FM - Buzzy D",
-              "show": "Deceit FM - Buzzy D",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Deceit FM - Buzzy D/[2025.02.01] Deceit FM - Buzzy D.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Deceit%20FM%20-%20Buzzy%20D/%5B2025.02.01%5D%20Deceit%20FM%20-%20Buzzy%20D.mp3"
-            }
-          ],
-          "name": "Deceit FM - Buzzy D"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
               "show": "Kos.Mos.Music Presents Phuture Beats Show",
               "url": "http://archives.bassdrivearchive.com/6 - Saturday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/"
             }
           ],
           "name": "Kos.Mos.Music Presents Phuture Beats Show"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Crucial-X Radio - Spacefunk",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/"
-            },
-            {
-              "name": "[2025.01.25] Crucial-X Radio - Spacefunk",
-              "show": "Crucial-X Radio - Spacefunk",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Crucial-X Radio - Spacefunk/[2025.01.25] Crucial-X Radio - Spacefunk.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Crucial-X%20Radio%20-%20Spacefunk/%5B2025.01.25%5D%20Crucial-X%20Radio%20-%20Spacefunk.mp3"
-            },
-            {
-              "name": "[2025.02.08] Crucial-X Radio - Spacefunk",
-              "show": "Crucial-X Radio - Spacefunk",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Crucial-X Radio - Spacefunk/[2025.02.08] Crucial-X Radio - Spacefunk.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Crucial-X%20Radio%20-%20Spacefunk/%5B2025.02.08%5D%20Crucial-X%20Radio%20-%20Spacefunk.mp3"
-            }
-          ],
-          "name": "Crucial-X Radio - Spacefunk"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Default Recordings Show - West",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/"
-            },
-            {
-              "name": "[2025.02.01] Default Recordings Show - .mp3",
-              "show": "Default Recordings Show - West",
-              "url": "http://archives.bassdrivearchive.com/6 - Saturday/Default Recordings Show - West/[2025.02.01] Default Recordings Show.mp3 - .mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/%5B2025.02.01%5D%20Default%20Recordings%20Show.mp3%20-%20.mp3"
-            }
-          ],
-          "name": "Default Recordings Show - West"
         },
         {
           "episodes": [
@@ -1288,30 +1288,12 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Fuzed Funk - Magin",
+              "show": "Awake247 Show - AwakeFM",
               "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
-            },
-            {
-              "name": "[2025.01.26] Fuzed Funk - Magin",
-              "show": "Fuzed Funk - Magin",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Fuzed Funk - Magin/[2025.01.26] Fuzed Funk - Magin.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/%5B2025.01.26%5D%20Fuzed%20Funk%20-%20Magin.mp3"
-            },
-            {
-              "name": "[2025.02.02] Fuzed Funk - Magin",
-              "show": "Fuzed Funk - Magin",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Fuzed Funk - Magin/[2025.02.02] Fuzed Funk - Magin.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/%5B2025.02.02%5D%20Fuzed%20Funk%20-%20Magin.mp3"
-            },
-            {
-              "name": "[2025.02.09] Fuzed Funk - Magin",
-              "show": "Fuzed Funk - Magin",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Fuzed Funk - Magin/[2025.02.09] Fuzed Funk - Magin.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/%5B2025.02.09%5D%20Fuzed%20Funk%20-%20Magin.mp3"
             }
           ],
-          "name": "Fuzed Funk - Magin"
+          "name": "Awake247 Show - AwakeFM"
         },
         {
           "episodes": [
@@ -1357,6 +1339,114 @@
           "episodes": [
             {
               "name": "../",
+              "show": "Mozey Live From London England - Mike Mozey",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
+            }
+          ],
+          "name": "Mozey Live From London England - Mike Mozey"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "The Hustle Audio Show - Phil Hustle",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
+            }
+          ],
+          "name": "The Hustle Audio Show - Phil Hustle"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "The Hive - Bumblebee",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
+            },
+            {
+              "name": "[2025.02.02] The Hive - Bumblebee",
+              "show": "The Hive - Bumblebee",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/The Hive - Bumblebee/[2025.02.02] The Hive - Bumblebee.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/The%20Hive%20-%20Bumblebee/%5B2025.02.02%5D%20The%20Hive%20-%20Bumblebee.mp3"
+            },
+            {
+              "name": "[2025.02.09] The Hive - Bumblebee",
+              "show": "The Hive - Bumblebee",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/The Hive - Bumblebee/[2025.02.09] The Hive - Bumblebee.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/The%20Hive%20-%20Bumblebee/%5B2025.02.09%5D%20The%20Hive%20-%20Bumblebee.mp3"
+            }
+          ],
+          "name": "The Hive - Bumblebee"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Lab Sessions - Impression",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
+            },
+            {
+              "name": "[2025.01.26] Lab Sessions - Impression",
+              "show": "Lab Sessions - Impression",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Lab Sessions - Impression/[2025.01.26] Lab Sessions - Impression.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Lab%20Sessions%20-%20Impression/%5B2025.01.26%5D%20Lab%20Sessions%20-%20Impression.mp3"
+            },
+            {
+              "name": "[2025.02.09] Lab Sessions - Impression",
+              "show": "Lab Sessions - Impression",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Lab Sessions - Impression/[2025.02.09] Lab Sessions - Impression.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Lab%20Sessions%20-%20Impression/%5B2025.02.09%5D%20Lab%20Sessions%20-%20Impression.mp3"
+            }
+          ],
+          "name": "Lab Sessions - Impression"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Incisive Rhythm - Ronin Selecta",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
+            }
+          ],
+          "name": "Incisive Rhythm - Ronin Selecta"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
+              "show": "Fuzed Funk - Magin",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
+            },
+            {
+              "name": "[2025.01.26] Fuzed Funk - Magin",
+              "show": "Fuzed Funk - Magin",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Fuzed Funk - Magin/[2025.01.26] Fuzed Funk - Magin.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/%5B2025.01.26%5D%20Fuzed%20Funk%20-%20Magin.mp3"
+            },
+            {
+              "name": "[2025.02.02] Fuzed Funk - Magin",
+              "show": "Fuzed Funk - Magin",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Fuzed Funk - Magin/[2025.02.02] Fuzed Funk - Magin.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/%5B2025.02.02%5D%20Fuzed%20Funk%20-%20Magin.mp3"
+            },
+            {
+              "name": "[2025.02.09] Fuzed Funk - Magin",
+              "show": "Fuzed Funk - Magin",
+              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Fuzed Funk - Magin/[2025.02.09] Fuzed Funk - Magin.mp3",
+              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/%5B2025.02.09%5D%20Fuzed%20Funk%20-%20Magin.mp3"
+            }
+          ],
+          "name": "Fuzed Funk - Magin"
+        },
+        {
+          "episodes": [
+            {
+              "name": "../",
               "show": "The Strictly Science Mixshow - Dlo",
               "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
@@ -1391,28 +1481,6 @@
           "episodes": [
             {
               "name": "../",
-              "show": "Mozey Live From London England - Mike Mozey",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
-            }
-          ],
-          "name": "Mozey Live From London England - Mike Mozey"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Incisive Rhythm - Ronin Selecta",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
-            }
-          ],
-          "name": "Incisive Rhythm - Ronin Selecta"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
               "show": "The High Definition Show - LJ High",
               "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
@@ -1442,83 +1510,15 @@
           "episodes": [
             {
               "name": "../",
-              "show": "The Hive - Bumblebee",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
-            },
-            {
-              "name": "[2025.02.02] The Hive - Bumblebee",
-              "show": "The Hive - Bumblebee",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/The Hive - Bumblebee/[2025.02.02] The Hive - Bumblebee.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/The%20Hive%20-%20Bumblebee/%5B2025.02.02%5D%20The%20Hive%20-%20Bumblebee.mp3"
-            },
-            {
-              "name": "[2025.02.09] The Hive - Bumblebee",
-              "show": "The Hive - Bumblebee",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/The Hive - Bumblebee/[2025.02.09] The Hive - Bumblebee.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/The%20Hive%20-%20Bumblebee/%5B2025.02.09%5D%20The%20Hive%20-%20Bumblebee.mp3"
-            }
-          ],
-          "name": "The Hive - Bumblebee"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
               "show": "The Jazzsticks Show - Paul SG",
               "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
               "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
             }
           ],
           "name": "The Jazzsticks Show - Paul SG"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "The Hustle Audio Show - Phil Hustle",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
-            }
-          ],
-          "name": "The Hustle Audio Show - Phil Hustle"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Awake247 Show - AwakeFM",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
-            }
-          ],
-          "name": "Awake247 Show - AwakeFM"
-        },
-        {
-          "episodes": [
-            {
-              "name": "../",
-              "show": "Lab Sessions - Impression",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/"
-            },
-            {
-              "name": "[2025.01.26] Lab Sessions - Impression",
-              "show": "Lab Sessions - Impression",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Lab Sessions - Impression/[2025.01.26] Lab Sessions - Impression.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Lab%20Sessions%20-%20Impression/%5B2025.01.26%5D%20Lab%20Sessions%20-%20Impression.mp3"
-            },
-            {
-              "name": "[2025.02.09] Lab Sessions - Impression",
-              "show": "Lab Sessions - Impression",
-              "url": "http://archives.bassdrivearchive.com/7 - Sunday/Lab Sessions - Impression/[2025.02.09] Lab Sessions - Impression.mp3",
-              "encodedUrl": "http://archives.bassdrivearchive.com/7%20-%20Sunday/Lab%20Sessions%20-%20Impression/%5B2025.02.09%5D%20Lab%20Sessions%20-%20Impression.mp3"
-            }
-          ],
-          "name": "Lab Sessions - Impression"
         }
       ]
     }
   },
-  "updated": "2025-02-22T15:07:04.876361Z"
+  "updated": "2025-02-22T16:08:46.358343Z"
 }
