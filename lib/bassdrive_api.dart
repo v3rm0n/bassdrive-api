@@ -38,7 +38,6 @@ Future<String> generateJSON() async {
         if (episodes.isNotEmpty) {
           final jsonShow = {};
           final episodesJson = [];
-          showsJson.add(jsonShow);
           jsonShow['episodes'] = episodesJson;
           final showName = show.substring(0, show.length - 1);
           jsonShow['name'] = showName;
@@ -56,6 +55,9 @@ Future<String> generateJSON() async {
                 showUri.resolve(show).resolve(episode).toString();
             episodesJson.add(episodeJson);
           }));
+          if(episodesJson.length > 0) {
+            showsJson.add(jsonShow);
+          }
         }
       }));
     }));
