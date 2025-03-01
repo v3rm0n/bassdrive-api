@@ -55,7 +55,7 @@ Future<String> generateJSON() async {
                 showUri.resolve(show).resolve(episode).toString();
             episodesJson.add(episodeJson);
           }));
-          if(episodesJson.length > 0) {
+          if (episodesJson.length > 0) {
             showsJson.add(jsonShow);
           }
         }
