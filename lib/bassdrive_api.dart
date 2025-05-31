@@ -55,7 +55,7 @@ Future<String> generateJSON() async {
                 showUri.resolve(show).resolve(episode).toString();
             episodesJson.add(episodeJson);
           }));
-          if (episodesJson.length > 0) {
+          if (episodesJson.isNotEmpty) {
             showsJson.add(jsonShow);
           }
         }
@@ -73,5 +73,5 @@ Future<Iterable<String>> getList(http.Client client, Uri uri) async {
   final links = document.querySelectorAll('tr td a');
   return links
       .whereNot((link) => link.innerHtml == 'Parent Directory')
-      .map((link) => Uri.decodeComponent(link.attributes['href']!));
+      .map((link) => link.attributes['href']!);
 }
