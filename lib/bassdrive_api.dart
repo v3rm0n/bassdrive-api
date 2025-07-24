@@ -40,15 +40,15 @@ Future<String> generateJSON() async {
           final episodesJson = [];
           jsonShow['episodes'] = episodesJson;
           final showName = show.substring(0, show.length - 1);
-          jsonShow['name'] = showName;
+          jsonShow['name'] = Uri.decodeComponent(showName);
           await Future.wait(episodes.map((episode) async {
             final episodeName = episode.replaceFirst('.mp3', '');
             if (episodeName.startsWith('..')) {
               return;
             }
             final episodeJson = {};
-            episodeJson['name'] = episodeName;
-            episodeJson['show'] = showName;
+            episodeJson['name'] = Uri.decodeComponent(episodeName);
+            episodeJson['show'] = Uri.decodeComponent(showName);
             episodeJson['url'] = Uri.decodeFull(
                 showUri.resolve(show).resolve(episode).toString());
             episodeJson['encodedUrl'] =
